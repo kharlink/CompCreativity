@@ -1,6 +1,6 @@
 # Markov Chains: Campus Map
 
-This is a project I completed for CSCI3725 Computational Creativity.
+This is a project I completed for CSCI3725 Computational Creativity. The focus was implementing a markov chain to create a piece of visual art that is personally meaningful.
 
 ## How to Set Up and Run Code
 
