@@ -1,10 +1,12 @@
 # Markov Chains: Campus Map
 
+This is a project I completed for CSCI3725 Computational Creativity.
+
 ## How to Set Up and Run Code
 
-This project runs without any input from the user. The program generates a schedule for a generic day in my life as a student at Bowdoin college. Time frames are not included. The schedules always begin and end in Harpswell apartments, which is where I live!
+This project runs without any input from the user. The program generates a schedule for a generic day in my life as a student at Bowdoin college. Time frames are not included. The schedules always begin and end in Harpswell apartments, which is where I live.
 
-In addition to generating a typed schedule, the program also produces an image of the Bowdoin College Campus! A pin is included on the screen at every location I am expected to travel to, given the produced schedule.
+In addition to generating a typed schedule, the program also produces an image of the Bowdoin College Campus. A pin is included on the screen at every location I am expected to travel to, given the produced schedule.
 
 ## Paragraphs
 
